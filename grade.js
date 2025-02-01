@@ -1,5 +1,3 @@
-
-
 let n = parseInt(prompt("Enter a number (between 0 and 100): "));
 
 if (n < 33) 

@@ -1,4 +1,3 @@
-
 let n = parseInt(prompt("Enter the number of elements: "));
 let ar = [];
 
