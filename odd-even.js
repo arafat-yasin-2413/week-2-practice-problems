@@ -1,6 +1,3 @@
-
-
-
 let n = parseInt(prompt("Enter a number: "));
 
 if (n === 0) {
